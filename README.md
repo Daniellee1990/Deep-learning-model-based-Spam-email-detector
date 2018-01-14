@@ -1,0 +1,2 @@
+# Deep-learning-model-based-Spam-email-detector
+In this project, different deep learning frameworks are applied to detect spam email. In the experiment, the performance of those models is compared, including Naïve Bayes classifier, CNN  (convolutional neural network), RNN (recurrent neural network), LSTM (Long Short-Term Memory Networks) and CNN-LSTM. Results on CSDMC2010 SPAM corpus [2] indicate that stacked LSTM achieved 99.20% detection accuracy, which is much better than other machine learning algorithms for the problem.
